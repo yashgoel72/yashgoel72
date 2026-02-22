@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Blockchain, Hyperledger,Smart Contract Development**
 
-- 📫 How to reach me **yashgoel20@iitk.ac.in**
+- 📫 How to reach me **ygoel72@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
