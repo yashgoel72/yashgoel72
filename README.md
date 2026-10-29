@@ -1,61 +1,57 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Yash Goel — blockchain and smart contract engineer" width="100%"/>
+  <img src="assets/header.svg" alt="Yash Goel — AI engineer, building MeeShip" width="100%"/>
 </p>
 
 <p align="center">
-  <b>SDE @ Microsoft</b> · <b>IIT Kanpur</b> · <b>Nethermind</b> · <b>National Blockchain Project</b>
+  <b>Software Engineer, AI @ Microsoft</b> · <b>Founder, <a href="https://meeship.in">MeeShip</a></b> · <b>IIT Kanpur</b>
   <br/>
-  Blockchain and smart contract developer from India 🇮🇳
+  I build AI products, by day for engineers and by night for Indian online sellers 🇮🇳
 </p>
 
 <p align="center">
-  <a href="mailto:ygoel72@gmail.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" height="28" alt="Email"/></a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/iyashgoel"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="28" alt="LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="https://instagram.com/iyashgoel"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="28" alt="Instagram"/></a>
+  <a href="https://meeship.in"><b>meeship.in</b></a> ·
+  <a href="https://linkedin.com/in/iyashgoel"><b>LinkedIn</b></a> ·
+  <a href="mailto:ygoel72@gmail.com"><b>Email</b></a> ·
+  <a href="https://instagram.com/mee.ship"><b>@mee.ship</b></a>
 </p>
 
 ---
 
-## ⚡ Right now
+## 🧭 What I do
 
-| | |
+**At Microsoft (IC3 AI Engineering).** I build AI systems for engineering teams: agents that fix broken pipelines, retrieval (RAG) over internal knowledge, an MCP server, and a platform for finding dead code.
+
+**On my own: [MeeShip](https://meeship.in).** An AI tool for Meesho sellers. Meesho picks a product's shipping slab from how big the photo makes it look, so MeeShip regenerates the photo and sellers keep ₹25-50 more per order. I design, build, ship, market and support it myself: FastAPI backend, React frontend, payments, logs, SEO and Instagram.
+
+**In e-commerce.** I have worked on the seller side too, so I build for problems I have seen first hand.
+
+## 🛒 Inside MeeShip
+
+| Tool | What it does |
 |---|---|
-| 🏗️ **Building** | [**MeeShip**](https://meeship.in), an AI tool that helps Meesho sellers cut shipping costs, with free seller tools like a label cropper |
-| 🌱 **Learning** | Smart contract auditing |
-| 👯 **Open to** | Collaborating on blockchain development |
-| 💬 **Ask me about** | Blockchain, Hyperledger, smart contract development |
-| 📫 **Reach me** | [ygoel72@gmail.com](mailto:ygoel72@gmail.com) |
+| [**Image optimizer**](https://meeship.in/tools/meesho-image-generator) | Upload a product photo, get a version that lands in a lower shipping slab |
+| [**Label crop**](https://meeship.in/tools/meesho-label-crop) | Free. Crops Meesho label PDFs in your browser and can include invoices |
+| [**Profit calculator**](https://meeship.in/tools/meesho-profit-calculator) | Free. Works out real margin after commission, shipping and returns |
+| [**All free tools**](https://meeship.in/tools) | Resizer, guides and more for sellers |
 
-## 🧰 Toolbox
+## 🧰 Stack
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" height="42" alt="Solidity"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" height="42" alt="Rust"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="42" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="42" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" height="42" alt="FastAPI"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="42" alt="TypeScript"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="42" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="42" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" height="42" alt="Django"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" height="42" alt="FastAPI"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="42" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="42" alt="Tailwind CSS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="42" alt="PostgreSQL"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="42" alt="Azure"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="42" alt="C"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="42" alt="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="42" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" height="42" alt="GitHub Actions"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" height="42" alt="Vercel"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="42" alt="Git"/>
 </p>
 
-## 📌 Selected work
+## ⛓️ Earlier chapter
 
-- ⛓️ [**GameOfBlocks**](https://github.com/yashgoel72/GameOfBlocks): SnT Summer Project
-- 🎬 [**Hybrid-Recommender-System**](https://github.com/yashgoel72/Hybrid-Recommender-System)
-- 🚀 [**MeeShip**](https://meeship.in): live product, built end to end
+Before AI products I worked in blockchain and smart contract security: a research internship at Nethermind, the National Blockchain Project, and [GameOfBlocks](https://github.com/yashgoel72/GameOfBlocks). I still think in threat models.
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashgoel72&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashgoel72&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top languages"/>
-</p>
-
-<p align="center"><i>Always shipping. Say hi 👋</i></p>
+<p align="center"><i>Building in public. Say hi 👋</i></p>
