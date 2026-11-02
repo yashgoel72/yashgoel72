@@ -41,6 +41,26 @@
 
 I treat growth as an engineering problem. I built an **inbound funnel** of free tools and guides that rank on search, feed the paid product, and are measured end to end in GA4. It grew traffic several times over without paid ads. I run A/B tests on UX changes, track funnels and fix what the logs and session recordings show.
 
+## 🧾 Proof of work
+
+### How search traffic grew
+I started with a site that barely showed up on Google. I fixed the technical basics first: a proper sitemap, structured data (JSON-LD), noindex on pages that shouldn't rank, soft-404 and redirect clean-ups, and faster images. Then I built the inbound funnel: free tools and guides for sellers (label crop, profit calculator, image resizing) that answer what people actually search for. Every week I review Search Console and GA4, rewrite titles on pages that rank but don't get clicked, and ship the next page based on real query data. No paid ads.
+
+<p align="center">
+  <img src="assets/meeship-search-console.png" alt="Google Search Console performance for meeship.in, May to October 2026: clicks and impressions growing from near zero" width="100%"/>
+  <br/>
+  <sub><b>Google Search Console, May to Oct 2026.</b> From near zero to steady organic clicks and impressions, with the weekly review loop steering what ships next.</sub>
+</p>
+
+### From visitors to real users
+Traffic only matters if people sign up and come back. Free tools bring sellers in, the photo product converts them, and I watch the whole path in GA4 and the backend logs. When logs showed a large share of sign-ins failing, I traced it to a bug in the login flow, shipped the fix, and failed sign-ins dropped from about 15% to about 2%. I also A/B tested a new wait screen for the image generator and refund failed jobs automatically, so a bad run doesn't cost a seller a credit.
+
+<p align="center">
+  <img src="assets/meeship-users.png" alt="MeeShip auth dashboard showing monthly active users and total signed-up users" width="55%"/>
+  <br/>
+  <sub><b>MeeShip user dashboard.</b> Total signed-up users and monthly active users, straight from the auth dashboard.</sub>
+</p>
+
 ## 🧭 End to end, in one picture
 
 `idea` → `AI-assisted build (FastAPI · React)` → `payments and credits` → `deploy on Azure and Vercel` → `logs and error budgets` → `SEO and content` → `analytics and experiments` → `repeat`
