@@ -41,6 +41,22 @@
 
 I treat growth as an engineering problem. I built an **inbound funnel** of free tools and guides that rank on search, feed the paid product, and are measured end to end in GA4. It grew traffic several times over without paid ads. I run A/B tests on UX changes, track funnels and fix what the logs and session recordings show.
 
+## 🧾 Proof of work
+
+Screenshots from the live MeeShip dashboards, no mock-ups.
+
+<p align="center">
+  <img src="assets/meeship-search-console.png" alt="Google Search Console performance for meeship.in, May to October 2026: clicks and impressions growing from near zero" width="100%"/>
+  <br/>
+  <sub><b>Google Search Console, May to Oct 2026.</b> Organic search clicks and impressions for meeship.in grew from near zero with no paid ads.</sub>
+</p>
+
+<p align="center">
+  <img src="assets/meeship-users.png" alt="MeeShip auth dashboard showing monthly active users and total users" width="55%"/>
+  <br/>
+  <sub><b>MeeShip user dashboard.</b> Monthly active users over the last 30 days and total signed-up users.</sub>
+</p>
+
 ## 🧭 End to end, in one picture
 
 `idea` → `AI-assisted build (FastAPI · React)` → `payments and credits` → `deploy on Azure and Vercel` → `logs and error budgets` → `SEO and content` → `analytics and experiments` → `repeat`
